@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(70, 69, 69);
+}
+.inner
+{
+    display:block;
+    margin:auto;  
+    width:60%;
+    margin-top:12%;
+    font-size:50px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
